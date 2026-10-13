@@ -1,0 +1,4 @@
+interface:
+  display_name: "yetong-product-marketing"
+  short_description: "执行叶童本人四类营销内容与五个日常动作，按真实产品安排文案和配图"
+  default_prompt: "使用 $yetong-product-marketing，沿用我本人四类宣发顺序与频次，从当前阶段继续，区分本人原稿和喜欢的参考稿，按真实资料与已确认规则处理，来源、文风及后续天数不自行补定。"
