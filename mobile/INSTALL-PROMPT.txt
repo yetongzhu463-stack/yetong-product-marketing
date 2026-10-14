@@ -1,0 +1,15 @@
+请安装或原生保存「叶童产品营销」Skill，标识 yetong-product-marketing。
+仓库：https://github.com/yetongzhu463-stack/yetong-product-marketing
+完整指令：https://raw.githubusercontent.com/yetongzhu463-stack/yetong-product-marketing/main/mobile/yetong-product-marketing-full.txt
+完整技能包：https://raw.githubusercontent.com/yetongzhu463-stack/yetong-product-marketing/main/mobile/yetong-product-marketing.zip
+完整性清单：https://raw.githubusercontent.com/yetongzhu463-stack/yetong-product-marketing/main/mobile/manifest.json
+
+我希望以后换一个新产品，也能调用这个技能，不只是本次对话临时照做。
+1. 先检查当前宿主、手机入口和账号是否允许安装或保存个人自定义技能；使用宿主官方机制。不要猜测目录、伪造平台按钮或把Grok Build当Grok Bot。
+2. 完整读取8个Markdown区段，或读取ZIP中的SKILL.md、6份references与产品输入卡；ZIP另含1份Codex显示元数据，共9个文件。核对manifest，无法下载、附件被截断、长度超限或保存机制不完整时明确报告，不能只读README或摘要。
+3. 用本平台原生机制保存完整规则与必要参考资料。没有原生持久保存入口，就报告“本入口不能确认完成安装”，不要改装成普通聊天记忆后宣称成功；已有同名技能时先说明差异，未经我确认不覆盖。
+4. 营销套路、顺序、每天篇数和六条表达偏好不得改写。不得写入我的历史业绩、其他人的案例或本次未提供的产品事实，不扫描私人目录，不自动发布、不创建自动任务。
+5. 返回实际保存状态、技能名称/标识、能看到它的技能库或调用入口、已保存资源范围与缺失项。只有原生保存和重新加载都有可检查依据，才说“安装完成”；没有实际证据就写“待验证”。
+6. 保存后先停止，不替我生成营销活动。我会在新对话或新任务里指定调用并提供本次产品资料，验证它是否确实能重新加载。
+
+如果你不能打开链接，我可以从上述仓库下载完整TXT或ZIP作为附件；普通附件上传不等于已安装。不要让我在手机终端执行电脑安装命令。

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "distribution": "mobile-distribution-01",
+  "source_skill": "yetong-product-marketing",
+  "source_directory": "skills/yetong-product-marketing",
+  "runtime_files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 9030,
+      "sha256": "fd3de8286172d8c9e22a2d9b6f2a34360772e1c9f812c1a452725615f40ec483"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 431,
+      "sha256": "b27e299c9fe651c57a31d1412cf288c142222c6d6fd646c475c6d92dbbadb61e"
+    },
+    {
+      "path": "assets/product-brief.md",
+      "bytes": 1214,
+      "sha256": "eaf45d602db9830f26b3396470ada8f054cdca4dbd7e74efb7e575d93b6bbd33"
+    },
+    {
+      "path": "references/confirmed-writing-style.md",
+      "bytes": 3716,
+      "sha256": "04be14f38b873ff0bf51a8149fdafa4c9cfd20cd4775cfd1b8d0654be20543fb"
+    },
+    {
+      "path": "references/daily-execution.md",
+      "bytes": 5531,
+      "sha256": "8d8ddb788d4a130946c70b8f3b7e76ce5f7b0004c950fa951bff0f433e80cd4e"
+    },
+    {
+      "path": "references/owner-marketing-method.md",
+      "bytes": 7003,
+      "sha256": "9ad939e8f1e828f22668d435634fa13153063d9097690c4c9430a6a31ad7f8cb"
+    },
+    {
+      "path": "references/reference-copy-structures.md",
+      "bytes": 5487,
+      "sha256": "813c9b5cae625d1260a9fd4901f62ad34ddfaa4326b90e811c251dab4e430ecd"
+    },
+    {
+      "path": "references/user-method-workflow.md",
+      "bytes": 8828,
+      "sha256": "f9ab40a7b00c8f9c0cb50d5667994c3556df9fc6fd71ca4f1a34865328cd7745"
+    },
+    {
+      "path": "references/writing-observations.md",
+      "bytes": 3664,
+      "sha256": "36325c09d634dc3e88c227bde4ca66064ff6e4aa87a489d8de5bcf290c857ec8"
+    }
+  ],
+  "portable_markdown_file_count": 8,
+  "portable_policy": "8份Markdown原文不改；使用同名区段解析原相对引用；Codex显示元数据只保留在ZIP中",
+  "artifacts": [
+    {
+      "path": "yetong-product-marketing-full.txt",
+      "bytes": 46110,
+      "sha256": "8c87552e6953f29b75764873e1f898377a322fb6906e49faee0725d672dc263c"
+    },
+    {
+      "path": "yetong-product-marketing.zip",
+      "bytes": 24844,
+      "sha256": "cfc0724bae041ee97ac20117358a42d48bd0620947967225d269fd05e2b488d1"
+    }
+  ],
+  "native_mobile_installation_verified": false,
+  "note": "文件完整性不等于豆包、WorkBuddy或Grok Bot手机原生安装已通过，须以平台技能库与新对话调用验收。"
+}
